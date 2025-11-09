@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Prism AI - AI-Powered Design Assistant
 
-## Getting Started
+A modern Next.js application that transforms your ideas into beautiful design systems instantly. Simply describe your brand or project, and let Google Gemini AI generate comprehensive design suggestions including:
 
-First, run the development server:
+- 🎨 **Theme Suggestions** - Style, mood, and design direction recommendations
+- 🎨 **Color Palettes** - Complete color schemes with hex codes
+- ✍️ **Font Suggestions** - Typography recommendations from Google Fonts
+- 📐 **Layout Ideas** - Structure and organization suggestions
+- 💻 **Code Snippets** - Production-ready HTML/CSS/React components
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Design
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Typography**: Sixtyfour (display) + Space Grotesk (body)
+- **Icons**: Lucide React for minimal, modern iconography
+- **Styling**: Tailwind CSS 4 with custom gradients
+- **Theme**: Light/Dark mode support
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Core Capabilities
+- 🤖 **AI-Powered Design Generation** - Leverages Google's Gemini AI to create comprehensive design systems tailored to your brand
+- 🎨 **Complete Design Systems** - Get themes, color palettes, typography, layouts, and code snippets in one go
+- ⚡ **Instant Results** - Fast AI processing with real-time design suggestions
+- 📋 **Copy-to-Clipboard** - One-click copying of colors, fonts, and code snippets with visual feedback
 
-## Learn More
+### User Experience
+- 🏠 **Modern Landing Page** - Beautiful, conversion-optimized homepage with smooth animations
+- 📝 **Interactive Form** - Intuitive interface for describing your brand with optional fields
+- 👁️ **Visual Previews** - Live preview of color palettes with hex codes
+- 🔗 **Direct Font Links** - Quick access to Google Fonts for easy integration
+- 💻 **Syntax Highlighting** - Beautiful code display with proper syntax highlighting
 
-To learn more about Next.js, take a look at the following resources:
+### Technical Features
+- 📱 **Responsive Design** - Optimized for desktop, tablet, and mobile devices
+- 🌓 **Dark Mode Support** - Automatic theme detection and manual switching
+- ⚡ **Next.js 16** - Built with the latest App Router for optimal performance
+- 🎯 **TypeScript** - Fully typed for better developer experience and reliability
+- 🎨 **Tailwind CSS 4** - Modern utility-first styling with custom gradients
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📄 License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project is licensed under the MIT License.
 
-## Deploy on Vercel
+Feel free to use this project for personal or commercial purposes!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 👨‍💻 Developer
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Ashutosh Swamy**
+
+- 🐙 GitHub: [@ashutoshswamy](https://github.com/ashutoshswamy)
+- 💼 LinkedIn: [ashutoshswamy](https://linkedin.com/in/ashutoshswamy)
+
+If you have questions, suggestions, or just want to connect, feel free to reach out!
+---
+
+**Note**: This application requires a Gemini API key. API usage may incur costs depending on your usage and Google's pricing. Check [Google AI Studio](https://makersuite.google.com/) for current pricing and rate limits.
+
